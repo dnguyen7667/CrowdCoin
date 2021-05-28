@@ -1,7 +1,7 @@
 # CrowdCoin
 
 A decentralized web application for crowd funding. 
-It is written using Solidity, NodeJS, semantic-react-ui, etc.
+It is written using Solidity, NodeJS,NextJS, semantic-react-ui, etc.
 
 Test-driven program using Mocha test framework.
 
